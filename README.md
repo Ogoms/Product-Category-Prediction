@@ -25,6 +25,7 @@ Activate the virtual environment:
 source venv/bin/activate  # For Linux/Mac
 
 Run the main script:
+Product_Prediction.ipynb
 
 Follow the prompts to input product features and view predicted categories.
 
